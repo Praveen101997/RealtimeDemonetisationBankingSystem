@@ -12,3 +12,5 @@ Admin-
 2. Admin can see the user’s info who have deposited duplicate currency
 3. List all the currencies deposited by a specific user
 ```
+
+Praveen Kumar Sharma
